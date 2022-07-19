@@ -20,5 +20,7 @@ public class PracticeTest2 {
 	Reporter.log("Executing Test2" , true);
 	System.out.println("Hello");
 	System.out.println("bye");
+System.out.println("bye-bye");
+
 	}
 }
