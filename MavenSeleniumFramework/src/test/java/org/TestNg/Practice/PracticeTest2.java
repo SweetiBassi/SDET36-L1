@@ -18,5 +18,6 @@ public class PracticeTest2 {
 	public void display1()
 	{
 	Reporter.log("Executing Test2" , true);
+	System.out.println("Hello");
 	}
 }
