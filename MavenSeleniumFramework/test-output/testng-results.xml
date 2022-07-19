@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Executing Test2]]>
+    </line>
+    <line>
+      <![CDATA[Executing Test1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-18T23:40:24Z" name="Default suite" finished-at="2022-07-18T23:40:24Z" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T23:40:24Z" name="Default test" finished-at="2022-07-18T23:40:24Z" duration-ms="62">
+      <class name="org.TestNg.Practice.PracticeTest1">
+        <test-method signature="display1Test()[pri:0, instance:org.TestNg.Practice.PracticeTest1@4ddbbdf8]" started-at="2022-07-19T05:10:24Z" name="display1Test" finished-at="2022-07-19T05:10:24Z" duration-ms="14" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing Test2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- display1Test -->
+        <test-method signature="displayTest()[pri:0, instance:org.TestNg.Practice.PracticeTest1@4ddbbdf8]" started-at="2022-07-19T05:10:24Z" name="displayTest" finished-at="2022-07-19T05:10:24Z" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing Test1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- displayTest -->
+      </class> <!-- org.TestNg.Practice.PracticeTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
