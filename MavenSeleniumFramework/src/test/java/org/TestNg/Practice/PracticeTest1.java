@@ -30,7 +30,5 @@ System.out.println("Password------->"+password);
 public void display1Test()
 {
 Reporter.log("Executing Test2" , true);
-System.out.println("Pass");
-System.out.println("Fail");
-System.out.println("yes");
+
 }}
