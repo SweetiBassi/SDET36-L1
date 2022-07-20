@@ -26,7 +26,7 @@ System.out.println("Password------->"+password);
 //Bye
 //hi
 String url1 = System.getProperty("Url");
-String browser1=	System.getProperty("browser");
+String browser12=	System.getProperty("browser");
 System.out.println();
 }
 @Test
