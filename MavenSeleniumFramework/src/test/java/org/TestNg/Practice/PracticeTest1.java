@@ -20,12 +20,18 @@ Reporter.log("Executing Test1" , true);
 System.out.println("Url------->"+url);
 System.out.println("browser------->"+browser);
 System.out.println("Username------->"+username);
-
+//hi
 System.out.println("Password------->"+password);
 //hiiiee
 //Bye
 //hi
 //hieee
+//me
+//Bye
+//hi
+String url2 = System.getProperty("Url");
+String browser31=	System.getProperty("browser");
+System.out.println();
 }
 @Test
 public void display1Test()
