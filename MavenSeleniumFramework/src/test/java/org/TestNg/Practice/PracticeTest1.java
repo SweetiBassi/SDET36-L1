@@ -22,6 +22,10 @@ System.out.println("browser------->"+browser);
 System.out.println("Username------->"+username);
 //hi
 System.out.println("Password------->"+password);
+//hiiiee
+//Bye
+//hi
+//hieee
 //me
 //Bye
 //hi
@@ -33,7 +37,9 @@ System.out.println();
 public void display1Test()
 {
 Reporter.log("Executing Test2" , true);
+
 System.out.println("Pass");
 System.out.println("Fail");
 System.out.println("yes");
+
 }}
