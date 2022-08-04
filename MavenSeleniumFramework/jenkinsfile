@@ -15,6 +15,7 @@ pipeline {
                 // To run Maven on a Windows agent, use
                  bat "mvn test -f MavenSeleniumFramework/pom.xml"
             }
+            }
             stage('install') {
             steps {
                 // Get some code from a GitHub repository
@@ -25,6 +26,7 @@ pipeline {
 
                 // To run Maven on a Windows agent, use
                  bat "mvn test -f MavenSeleniumFramework/pom.xml"
+            }
             }
             stage('Test') {
             steps {
@@ -37,9 +39,8 @@ pipeline {
                 // To run Maven on a Windows agent, use
                  bat "mvn test -f MavenSeleniumFramework/pom.xml"
             }
-
-           
-        }
-    }
+}
+        
+}
 }
 
